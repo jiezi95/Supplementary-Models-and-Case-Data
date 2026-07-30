@@ -1,2 +1,3 @@
 # Supplementary-Models-and-Case-Data
-Detailed mathematical models and case data
+- Detailed continuous-time models for IHPS
+- Case data of IHPS
